@@ -16,6 +16,11 @@ If you don't know how to submit a pull request, simply search it on Youtube and 
 
 Depending on how many people participate, I might feature this on my Youtube channel @Brian Design and everyone can check the repository and see who contributed to it.
 
+## :bulb: Feedback
+If you'd like to add any additional comments or feature request, just add a new issue or add a comment so I can take a look. Also, you can check out the project tab to see the progress of the website. 
+
+This is currently a Beta test, so I'm still trying to figure out the best way to collaboration without causing any issues. If you have any suggestions, reach out to me on any of my socials
+
 
 
 
