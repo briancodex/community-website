@@ -2,7 +2,7 @@
 
 I've had this idea for a while now where people can submit pieces of code that end up turning into an amazing website. 
 
-## How to Contribute
+## :white_check_mark: How to Contribute
 
 Click on the Issues tab and you'll notice there will be specific issues that need to be created. Choose an issue that you'd like to work on and comment on the issue. It is very important that you comment on the issue because the first comment is the one who gets priority for creating that section.
 
