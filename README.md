@@ -8,7 +8,7 @@ Click on the Issues tab and you'll notice there will be specific issues that nee
 
 If two people comment on the same issue, the first person who commented will get that section and the other person will have to choose a different section.
 
-## Summary
+## :clipboard: Summary
 
 The starter code consist of HTML, CSS and Javascript.
 
