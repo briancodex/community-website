@@ -99,3 +99,44 @@ html {
     width: 0%;
   }
 }
+
+/* section 2 */
+.section2 {
+  margin: 0 auto;
+  position: relative;
+  margin-top: 83rem;
+  margin-bottom: 5rem;
+  width: 75%;
+}
+
+.section2 h2 {
+  text-align: center;
+  font-size: 4rem;
+}
+
+.services {
+  display: flex;
+  gap: 10px;
+  margin-top: 7rem;
+}
+
+.service {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.service i {
+  font-size: 5rem;
+  margin-bottom: 1.8rem;
+}
+
+.service h3 {
+  font-size: 2.6rem;
+}
+.service p {
+  font-size: 1.5rem;
+  margin-top: 1.2rem;
+  width: 85%;
+}
