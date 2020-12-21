@@ -289,6 +289,48 @@ html {
   width: 85%;
 }
 
+/* section 3 */
+
+section.section3{
+  background: #000000;
+  height: 50vh;
+}
+
+section.section3 .card-wrapper{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 2rem;
+  grid-row-gap: 6rem;
+}
+
+section.section3 .card-wrapper .card{
+  background: #fff;
+  padding: 3rem 2rem;
+  position: relative;
+  padding-top: 5rem;
+  width: 30vw;
+  margin-left: 3%;
+  text-align: center;
+  transition: all .3s ease;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition:all .3s;
+  -o-transition: all .3s;
+}
+
+section.section3 .card-wrapper .card .i{
+  position: absolute; 
+  top: -3.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  -ms-transform:translateX(-50%);
+  -o-transform: translateX(-50%);
+}
+
+
+
 /* Footer CSS */
 .footer-container{
  padding: 1rem 0;
