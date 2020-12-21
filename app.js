@@ -46,13 +46,12 @@ navLinks.forEach(function(navLink){
 
     navLink.addEventListener('mouseleave',function(){
         cursor.classList.remove('cursor-active');
-        d
         document.body.style.cursor = 'initial';
         
     })
 
     navLink.addEventListener('mouseover',function(){
         cursor.classList.add('cursor-active');
-        ocument.body.style.cursor = 'none';
+        document.body.style.cursor = 'none';
     })
 })
