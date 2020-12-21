@@ -3,6 +3,7 @@
 * {
   padding: 0;
   margin: 0;
+  overflow-x: hidden;
 }
 
 html {
@@ -187,25 +188,25 @@ html {
 .slide:nth-child(1) {
   left: 0%;
   animation-delay: -1s;
-  background: url(/images/icons8-team.jpg);
+  background: url(./images/icons8-team.jpg);
   background-size: cover;
   background-position: center;
 }
 .slide:nth-child(2) {
   animation-delay: 2s;
-  background: url(/images/christina-wocintechchat-unsplash.jpg);
+  background: url(./images/christina-wocintechchat-unsplash.jpg);
   background-size: cover;
   background-position: center;
 }
 .slide:nth-child(3) {
   animation-delay: 5s;
-  background: url(/images/pexels-gabby-k.jpg);
+  background: url(./images/pexels-gabby-k.jpg);
   background-size: cover;
   background-position: center;
 }
 .slide:nth-child(4) {
   animation-delay: 8s;
-  background: url(/images/pexels-zen-chung.jpg);
+  background: url(./images/pexels-zen-chung.jpg);
   background-size: cover;
   background-position: center;
 }
