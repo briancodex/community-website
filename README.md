@@ -10,7 +10,14 @@ Click on the Issues tab and you'll notice there will be specific issues that nee
 
 If two people comment on the same issue, the first person who commented will get that section and the other person will have to choose a different section.
 
-Update: If the first person who commented does not push any code within a 24 hour period, someone else can take that section. There's a lot of people that want to contribute, so if you are taking too long to send your section, I will have to push whoever ends up submitting their code first. 
+## :exclamation: Important
+
+If the first person who commented does not push any code within a 24 hour period, someone else can take that section. There's a lot of people that want to contribute, so if you are taking too long to upload your section, I will have to push whoever ends up submitting their code first. 
+
+I will try to reply to comments within a 12 hour period. You will have to wait until I reply and assign you to the issue. If you try to push code and you aren't the person assigned to the issue, I will not accept your request. 
+
+Last thing, make sure you create a new branch when you commit. If you are not familiar with creating branches on github, be sure to watch some tutorials on it before commiting.
+
 
 ## :clipboard: Summary
 
