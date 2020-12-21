@@ -21,7 +21,6 @@ html {
 
 .slider {
   display: block;
-  position: absolute;
   width: 100%;
   height: 100vh;
   overflow: hidden;
@@ -102,10 +101,7 @@ html {
 
 /* section 2 */
 .section2 {
-  margin: 0 auto;
-  position: relative;
-  margin-top: 83rem;
-  margin-bottom: 5rem;
+  margin: 10rem auto;
   width: 75%;
 }
 
