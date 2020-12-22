@@ -1,0 +1,10 @@
+/* This the theme file for the project. 
+   Add your own custom theme defintions below. 
+*/
+
+:root {
+    --theme-body-fontfamily: "Lato";
+    --theme-body-color:  !important;
+
+    --theme-logo-color: red;
+}
