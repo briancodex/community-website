@@ -3,6 +3,7 @@
     padding: 0;
     margin: 0;
     overflow-x: hidden;
+    
 }
 
 html {
@@ -16,6 +17,7 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: var(--theme-body-color);
 }
 
 .navbar {
@@ -31,7 +33,7 @@ html {
 
 .logo {
     padding-left: 1.6rem;
-    color: white;
+    color: var(--theme-logo-color);
     text-decoration: none;
     font-size: clamp(1.92rem, 2vw, 2.4rem);
 }
@@ -483,4 +485,34 @@ a {
 
 .section1-div3 p {
     font-size: 16px;
+}
+
+#about .row {
+    width: 70%;
+    margin: 0 auto;
+    padding: 1em;
+    font-size: 15px;
+}
+
+#about h4 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+#about p {
+    margin-bottom: 1em;
+    text-align: center;
+}
+
+#about .col-4 {
+    width: 31%;
+    margin-right: 2rem;
+    float: left;
+}
+
+#about .hightlight {
+    background: #FF5722;
+    color: white;
+    padding: 1.2em;
+    text-align: center;
 }
