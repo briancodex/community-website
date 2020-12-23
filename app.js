@@ -1,4 +1,3 @@
-
 const navBtn = document.querySelector('.menu-toggle');
 const cursor = document.querySelector('.cursor');
 const navLinks = document.querySelectorAll('.nav-link');
@@ -14,7 +13,7 @@ function cursorMove(e){
 
 // **********FULL SCREEN NAVIGATION ANIMATION**************
 
-const tl = gsap.timeline({defaults:{duration: 1},paused:true,reversed:true});
+const tl = gsap.timeline({defaults:{duration: 0.55},paused:true,reversed:true});
 
 tl
 .from('.navigation-menu',{top: '-100%'})
