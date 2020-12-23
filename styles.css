@@ -257,8 +257,9 @@ html {
 }
 
 .services {
-    display: flex;
-    gap: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
     margin-top: 7rem;
 }
 
@@ -516,3 +517,10 @@ a {
     padding: 1.2em;
     text-align: center;
 }
+
+/* Phones - Section 2 responsive - single column */
+@media only screen and (max-width: 786px) {
+    .services {
+      grid-template-columns: 1fr;
+    }
+  }
