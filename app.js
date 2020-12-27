@@ -54,3 +54,12 @@ navLinks.forEach(function(navLink){
         document.body.style.cursor = 'none';
     })
 })
+
+
+// loader
+$(document).ready(function(){
+    setTimeout(function() {
+        $('body').addClass('loaded');
+        $('#loader-wrapper').css({"width": "0%", "height":"0%"})
+    }, 3000);
+});
